@@ -1,0 +1,21 @@
+.sidebar {
+    -fx-background-color: #17A854;
+}
+
+.button {
+    -fx-background-color: #17A854;
+    -fx-text-fill: #f4f4f4;
+    -fx-border-radius: 50%;
+}
+
+.button:selected {
+    -fx-background-color: #17CD54;
+}
+
+.button:hover {
+    -fx-background-color: #17CD54;
+}
+
+#view {
+    -fx-background-color: white;
+}
